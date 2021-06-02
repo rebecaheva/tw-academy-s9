@@ -4,25 +4,25 @@
 
 ## Table of contents<br>
 
-[Bold](#Bold)
+* [Bold](#Bold)
 
-[Italics](#Italics)
+* [Italics](#Italics)
 
-[Fixed Font](#FixedFont)
+* [Fixed Font](#Fixed-Font)
 
-[Abbreviations](#Abbreviations)
+* [Abbreviations](#Abbreviations)
 
-[Capitalization](#Capitalization)
+* [Capitalization](#Capitalization)
 
-[Acronyms](#Acronyms)
+* [Acronyms](#Acronyms)
 
-[Commas in Lists](#CommasInLists)
+* [Commas in Lists](#Commas-in-Lists)
 
-[Numbers](#Numbers)
+* [Numbers](#Numbers)
 
-[Contraction](#Contraction)
+* [Contractions](#Contractions)
 
-[Apostrophes](#Apostrophes)
+* [Apostrophes](#Apostrophes)
 
 
 ## Bold
