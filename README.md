@@ -1,7 +1,7 @@
 # Sample Style Guide
 ## Technical Writing Academy - May 2021 <br>
 --------
-
+Now you are in!!!
 ## Table of contents<br>
 
 * [Bold](#Bold)
